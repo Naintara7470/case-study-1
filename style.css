@@ -1,0 +1,22 @@
+body{
+    background-color: lightpink;
+}
+#case_study
+{
+    color: deeppink;
+    text-shadow: 2px 4px dodgerblue;
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+label{
+    font-family: cursive;
+    font-size: 30px;
+    color: blueviolet;
+
+
+}
+h4
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: indigo;
+}
